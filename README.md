@@ -1,3 +1,6 @@
+## NOTICE: moved
+Pleas note that this project has been moved to https://github.com/usnistgov/h5wasm by the author.  Development will continue there.
+
 # h5wasm
 a zero-dependency WebAssembly-powered library for [reading](#reading) and [writing](#writing) HDF5 files from javascript
 
